@@ -1,5 +1,6 @@
 $(function () {
 
+<<<<<<< HEAD
     function displayNextStudentName() {
         var nextStudentIndex = Math.floor(Math.random() * students.length);
         var nextStudent = students[nextStudentIndex];
