@@ -20,12 +20,11 @@ $(function () {
     });
 
     var students = [
-        { name: "Alex Gadd" },
         { name: "Aylin McGinnis" },
         { name: "Blake Smith" },
         { name: "Brandon King" },
         { name: "Jibril Sulaiman II" },
-        { name: "Charles Wilkinson" },
+        { name: "Ryan Wilkinson" },
         { name: "Dan Milo" },
         { name: "David Hernquist" },
         { name: "Dee Davis" },
@@ -33,7 +32,6 @@ $(function () {
         { name: "Felicia Garcia" },
         { name: "Harry Karambizi" },
         { name: "Hassan Masroor" },
-        { name: "Jacob Butler" },
         { name: "Josh Seipel" },
         { name: "Joy Sutton" },
         { name: "Julian Ireland Chandler" },
